@@ -1,4 +1,4 @@
-In this I generated the risk map based on the crime rate and implemented a heuristic search algorithm to find an optimal path between two coordinates on the map.
+Generated the risk map based on the crime rate and implemented a heuristic search algorithm to find an optimal path between two coordinates on the map.
 
 The A* implementation is present in MainProject.ipynb
 An implementation of best first search with admissible heuristic is present in Bonus1.ipynb
