@@ -1,6 +1,8 @@
-The Main project without bonus is present in MainProject.ipynb
-We attempted Bonus1 which is present in Bonus1.ipynb
-We also worked on future scope of project and implemented a randomHeuristic but did not have much time to do analysis.
+In this I generated the risk map based on the crime rate and implemented a heuristic search algorithm to find an optimal path between two coordinates on the map.
+
+The A* implementation is present in MainProject.ipynb
+An implementation of best first search with admissible heuristic is present in Bonus1.ipynb
+I also worked on future scope of project and implemented a Random Heuristic.
 
 What is requirement for running project:
 Libraries:Pyshp,Geopandas,Pandas,Numpy,Sklearn,Matplotlib
